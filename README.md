@@ -3,10 +3,10 @@
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=jonawe&count_private=true&show_icons=true&title_color=58A7FE&icon_color=58A7FE&text_color=DDD&bg_color=0C1017&border_radius=7&custom_title=My%20Github%20Stats&line_height=27&" alt="Jona's Github Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=jonawe&count_private=true&show_icons=true&title_color=1E6EEB&icon_color=1E6EEB&text_color=DDD&bg_color=0C1017&border_radius=7&custom_title=My%20Github%20Stats&line_height=27&" alt="Jona's Github Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonawe&title_color=58A7FE&icon_color=58A7FE&text_color=DDD&bg_color=0C1017&border_radius=7&custom_title=Languages%20by%20usage&layout=default&langs_count=3&)" alt="Jona's Top Languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonawe&title_color=1E6EEB&icon_color=1E6EEB&text_color=DDD&bg_color=0C1017&border_radius=7&custom_title=Languages%20by%20usage&layout=default&langs_count=3&)" alt="Jona's Top Languages"/>
   </a>
 </div>
 <br/>
@@ -14,4 +14,3 @@
 
 #
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
-<br/>
