@@ -2,7 +2,7 @@
 <h3 align='center'>A 20-year-old computer science student from Germany who has a passion for coding.</h3>
 <ul>
   <li>🌱 I’m currently learning <b>Frontend Development</b></li>
-  <li>👨‍💻 All of my projects will soon be available at <a href='https://www.jonawessendorf.me'>jonawessendorf.me</a></li>
+  <li>👨‍💻 All of my projects will soon be available at <a href='https://www.jonawessendorf.me' target='_blank'>jonawessendorf.me</a></li>
 </ul>
 <h2 align="left">Languages and Tools</h2>
 <br>
