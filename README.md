@@ -1,11 +1,12 @@
 <h1 align='center'>Hey 👋, I'm Jona Wessendorf</h1>
-<h3>A 20-year-old computer science student from Germany who has a passion for coding.</h3>
+<h3 align='center'>A 20-year-old computer science student from Germany who has a passion for coding.</h3>
 <ul>
   <li>🌱 I’m currently learning <b>Frontend Development</b></li>
   <li>👨‍💻 All of my projects are soon available at <a href='jonawessendorf.me'>jonawessendorf.me</a></li>
 </ul>
 <br/>
-<h3 align="center">Languages and Tools</h3>
+<h2 align="left">Languages and Tools</h2>
+<br>
 <div align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -37,6 +38,7 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
+  <br>
   <a href="https://www.photoshop.com/en" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/>
   </a>
@@ -49,6 +51,8 @@
 </div>
 <br/>
 
+<h2 align="left">My Github Stats</h2>
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=jonawe&count_private=true&show_icons=true&title_color=58A7FE&icon_color=58A7FE&text_color=DDD&bg_color=0C1017&border_radius=7&custom_title=My%20Github%20Stats&line_height=27&" alt="Jona's Github Stats" />
@@ -59,7 +63,7 @@
   </a>
 </div>
 <br/>
-<img align='right' src="https://visitor-badge.glitch.me/badge?page_id=jonawe.jonawe">
+<img align='right' src="https://visitor-badge.glitch.me/badge?page_id=jonawe.jonaweeeeeeeeeeeeeeeeeee">
 
 #
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
