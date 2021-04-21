@@ -2,9 +2,8 @@
 <h3 align='center'>A 20-year-old computer science student from Germany who has a passion for coding.</h3>
 <ul>
   <li>🌱 I’m currently learning <b>Frontend Development</b></li>
-  <li>👨‍💻 All of my projects are soon available at <a href='jonawessendorf.me'>jonawessendorf.me</a></li>
+  <li>👨‍💻 All of my projects will soon be available at <a href='https://www.jonawessendorf.me'>jonawessendorf.me</a></li>
 </ul>
-<br/>
 <h2 align="left">Languages and Tools</h2>
 <br>
 <div align="center">
@@ -49,8 +48,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="adobe indesign" width="40" height="40"/>
   </a>
 </div>
-<br/>
-
 <h2 align="left">My Github Stats</h2>
 
 <div align="center">
@@ -63,7 +60,7 @@
   </a>
 </div>
 <br/>
-<img align='right' src="https://visitor-badge.glitch.me/badge?page_id=jonawe.jonaweeeeeeeeeeeeeeeeeee">
+<img align='right' src="https://visitor-badge.glitch.me/badge?page_id=jonawe.jonawe">
 
 #
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
