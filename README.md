@@ -3,6 +3,7 @@
 <ul>
   <li>🌱 I’m currently learning <b>Frontend Development</b></li>
   <li>👨‍💻 All of my projects will soon be available at <a href='https://www.jonawessendorf.me' target='_blank'>jonawessendorf.me</a></li>
+  <li>📜 freeCodeCamp certificates <a href='https://www.freecodecamp.org/jonawessendorf' target='_blank'>freecodecamp.org/jonawessendorf</a></li>
 </ul>
 <h2 align="left">Languages and Tools</h2>
 <br>
