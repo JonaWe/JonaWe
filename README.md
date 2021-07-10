@@ -47,6 +47,9 @@
   <a href="https://www.photoshop.com/en" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/>
   </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="adobe xd" width="40" height="40"/>
+  </a>
   <a href="https://www.adobe.com/products/indesign.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="adobe indesign" width="40" height="40"/>
   </a>
