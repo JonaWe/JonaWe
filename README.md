@@ -38,7 +38,9 @@
   <a href="https://sass-lang.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -60,10 +62,19 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=jonawe&count_private=true&show_icons=true&title_color=58A7FE&icon_color=58A7FE&text_color=DDD&bg_color=0C1017&border_radius=7&custom_title=My%20Github%20Stats&line_height=27&" alt="Jona's Github Stats" />
   </a>
-  <br>
+  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonawe&title_color=58A7FE&icon_color=58A7FE&text_color=DDD&bg_color=0C1017&border_radius=7&custom_title=Languages%20in%20public%20Repositories&layout=compact&langs_count=10&card_width=450&)" alt="Jona's Top Languages"/>
   </a>
+  <br/>
+  <br/>
+  <details>
+  <summary><b>Recent GitHub Activity</b></summary>
+  <br/>
+   <img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jonawe&theme=react-dark" />
+  <br/>
+
+</details>
 </div>
 <br/>
 <img align='right' src="https://visitor-badge.glitch.me/badge?page_id=jonawe.jonawe">
