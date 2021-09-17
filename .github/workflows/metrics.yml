@@ -21,18 +21,19 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
           plugin_habits: yes
-          plugin_habits_from: 200       # Use 200 events to compute habits
-          plugin_habits_days: 28        # Keep only events from last 14 days
+          plugin_habits_from: 1000      # Use 1000 events to compute habits
+          plugin_habits_days: 30        # Keep only events from last 30 days
           plugin_habits_facts: yes      # Display facts section
           plugin_habits_charts: yes     # Display charts section
           plugin_habits_trim: yes       # Trim unused hours on daily chart
           plugin_languages: yes
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          plugin_languages_details: bytes-size, percentage              # Additionally display total bytes size and percentage
+          plugin_languages_threshold: 2%                                # Hides all languages less than 2%
+          plugin_languages_limit: 8                                     # Display up to 8 languages
+          plugin_languages_sections: most-used, recently-used           # Display most used and recently used languages stats
+          plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
+          plugin_languages_categories: programming                      # Display only languages that match these categories in most-used section
+          plugin_languages_recent_categories: markup, programming, data # Display only languages that match these categories in recently-used section
+          plugin_languages_recent_load: 1000                             # Load up to 1000 events to compute recently used stats
+          plugin_languages_recent_days: 30                               # Limit recently used stats to last 30 days
           plugin_traffic: yes
