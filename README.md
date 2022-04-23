@@ -1,5 +1,5 @@
 <h1 align='center'>Hey 👋, I'm Jona Wessendorf</h1>
-<h3 align='center'>A 20-year-old computer science student from Germany who has a passion for coding.</h3>
+<h3 align='center'>A 21-year-old computer science student from Germany who has a passion for coding.</h3>
 <ul>
   <li>🌱 I’m currently learning <b>Frontend Development</b></li>
   <li>👨‍💻 All of my projects will soon be available at <a href='https://www.jonawessendorf.me' target='_blank'>jonawessendorf.me</a></li>
